@@ -38,9 +38,10 @@
   "🎁 SHARE CODE BỞI ADMIN:\nMã nguồn này hoàn toàn miễn phí, không mua bán.\nBạn chỉ cần nạp các tệp lệnh và khởi chạy hệ thống.\nNhiều tính năng mới hoặc hỗ trợ riêng đang chờ bạn:\n👉 Nhắn ngay cho Admin để biết thêm chi tiết!"
 ],
   "globalBan": [
-    "1234567890",
-    "0987654321",
-    "100077870917015"
+    {
+      "id": "100077870917015",
+      "reason": "Tài khoản bị khóa do vi phạm bản quyền và chia sẻ trái phép!"
+    }
   ],
   "greetings": [
     "Chào mừng bạn đã trở lại!",
