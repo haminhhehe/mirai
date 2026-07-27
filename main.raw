@@ -6,13 +6,37 @@
     "zalo": "0842962616",
     "telegram": "@wenxnew"
   },
-  "projectInfo": {
-    "title": "📢 THÔNG TIN DỰ ÁN:",
-    "line1": "Dự án được phát triển & chia sẻ mã nguồn miễn phí.",
-    "line2": "Bạn chỉ cần thêm lệnh và khởi chạy bot là xong!",
-    "line3": "Khi muốn thêm lệnh mới, cập nhật bot hoặc cần hỗ trợ:",
-    "line4": "➡️ Xin vui lòng nhắn tin trực tiếp cho admin nhé!"
-  },
+  "projectInfo": [
+  "📌 BẢN QUYỀN & HỖ TRỢ:\nMã nguồn dự án này hoàn toàn miễn phí 100%.\nChỉ cần tải về, thêm lệnh là bot đã sẵn sàng hoạt động.\nNếu gặp lỗi, muốn nâng cấp hay thêm chức năng mới:\n👉 Nhắn tin ngay cho Admin để được hỗ trợ nhé!",
+
+  "📢 THÔNG TIN DỰ ÁN:\nDự án được phát triển & chia sẻ mã nguồn miễn phí.\nBạn chỉ cần thêm lệnh và khởi chạy bot là xong!\nKhi muốn thêm lệnh mới, cập nhật bot hoặc cần hỗ trợ:\n➡️ Xin vui lòng nhắn tin trực tiếp cho admin nhé!",
+
+  "💡 THÔNG TIN VỀ BOT:\nĐây là dự án phi lợi nhuận và được chia sẻ công khai.\nHệ thống đã tối ưu sẵn, bạn chỉ việc thêm lệnh và vận hành.\nMọi yêu cầu hỗ trợ kỹ thuật hoặc cập nhật tính năng:\n📩 Vui lòng liên hệ trực tiếp Quản trị viên.",
+
+  "✨ ĐÔI ĐIỀU VỀ DỰ ÁN:\nBot được share free cho mọi người cùng sử dụng.\nCài đặt cực dễ, chỉ thêm lệnh vào là chạy vi vu.\nCần hỗ trợ, bảo trì hay custom thêm lệnh theo ý muốn:\n💬 Ib trực tiếp cho admin liền tay nha!",
+
+  "ℹ️ THÔNG BÁO TỪ PHÁT TRIỂN VIÊN:\nToàn bộ source code được cung cấp miễn phí tới cộng đồng.\nNgười dùng chỉ cần thêm các file module và khởi chạy.\nKhi có thắc mắc hoặc cần đóng góp phát triển hệ thống:\nTrân trọng mời bạn nhắn tin cho Admin.",
+
+  "🚀 DỰ ÁN BOT MIỄN PHÍ:\nMã nguồn hoàn toàn Open Source và không thu phí.\nKhởi chạy đơn giản: chỉ cần thả module lệnh vào là xong.\nNếu cần fix lỗi, nâng cấp hoặc thêm tính năng mới:\n📲 Đừng ngần ngại liên hệ Admin ngay!",
+
+  "⭐ HỖ TRỢ & NÂNG CẤP:\nSản phẩm này được chia sẻ hoàn toàn miễn phí.\nBạn chỉ cần thêm lệnh yêu thích và bật bot lên dùng.\nBất cứ khi nào cần cập nhật hay muốn thêm chức năng:\n👉 Hãy nhắn cho Admin để được tư vấn tận tình!",
+
+  "🛠️ BẢO TRÌ & NÂNG CẤP HỆ THỐNG:\nSource code bot hoàn toàn miễn phí dành cho mọi người.\nThao tác cài đặt siêu gọn: chép lệnh và bật file run.\nCần trợ giúp kỹ thuật hoặc yêu cầu viết thêm lệnh:\n✉️ Vui lòng inbox trực tiếp cho Admin.",
+
+  "🎉 CHIA SẺ MÃ NGUỒN:\nDự án được duy trì và phát triển vì cộng đồng (Free 100%).\nChỉ vài bước thêm module là bot hoạt động mượt mà.\nKhi hệ thống gặp sự cố hoặc cần hỗ trợ nâng cao:\n➡️ Nhắn tin ngay cho Admin để xử lý nhanh nhất!",
+
+  "💎 THÔNG TIN SOURCE CODE:\nMã nguồn bot được cấp phép chia sẻ miễn phí.\nLắp ráp lệnh đơn giản, dễ dùng cho cả người mới.\nNếu có ý tưởng mới hoặc muốn hỗ trợ cài đặt:\n💬 Inbox ngay cho Admin để được giúp đỡ!",
+
+  "🔥 CỘNG ĐỒNG BOT PHÁT TRIỂN:\nToàn bộ mã nguồn này hoàn toàn miễn phí cho tất cả mọi người.\nSetup cực kỳ đơn giản: tải về, chép lệnh và vận hành.\nNếu bạn muốn nâng cấp phiên bản hoặc hỗ trợ tạo lệnh riêng:\n👉 Nhắn tin cho Admin bất cứ lúc nào nhé!",
+
+  "🌐 DỰ ÁN OPEN SOURCE:\nDự án phi thương mại, chia sẻ mã nguồn không tính phí.\nBạn chỉ việc thêm danh sách lệnh và khởi động chương trình.\nKhi muốn cập nhật tính năng mới hoặc xử lý sự cố:\n📲 Hãy liên hệ với Admin để được giải đáp!",
+
+  "🤖 TRỢ LÝ BOT MIỄN PHÍ:\nCode bot được share miễn phí 100% cho cộng đồng.\nThêm lệnh vào thư mục modules là bot sẵn sàng phục vụ.\nCần fix lỗi phát sinh hay làm thêm chức năng độc quyền:\n✉️ Inbox Admin để được hỗ trợ tốt nhất!",
+
+  "📢 LƯU Ý SỬ DỤNG:\nDự án được phát triển và gửi tặng cộng đồng hoàn toàn free.\nCấu hình đơn giản, thêm lệnh là bot chạy được ngay.\nMọi thắc mắc kỹ thuật hoặc nhu cầu nâng cấp hệ thống:\n➡️ Xin vui lòng nhắn tin trực tiếp cho Admin!",
+
+  "🎁 SHARE CODE BỞI ADMIN:\nMã nguồn này hoàn toàn miễn phí, không mua bán.\nBạn chỉ cần nạp các tệp lệnh và khởi chạy hệ thống.\nNhiều tính năng mới hoặc hỗ trợ riêng đang chờ bạn:\n👉 Nhắn ngay cho Admin để biết thêm chi tiết!"
+],
   "globalBan": [
     "1234567890",
     "0987654321"
