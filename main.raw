@@ -3,21 +3,27 @@
   "info": {
     "developer": "Drasew (Hà Minh)",
     "facebook": "fb.com/wenxxxnew",
-    "zalo": "0842962616"
+    "zalo": "0842962616",
+    "telegram": "@wenxnew"
   },
+  "projectInfo": {
+    "title": "📢 THÔNG TIN DỰ ÁN:",
+    "line1": "Dự án được phát triển & chia sẻ mã nguồn miễn phí.",
+    "line2": "Bạn chỉ cần thêm lệnh và khởi chạy bot là xong!",
+    "line3": "Khi muốn thêm lệnh mới, cập nhật bot hoặc cần hỗ trợ:",
+    "line4": "➡️ Xin vui lòng nhắn tin trực tiếp cho admin nhé!"
+  },
+  "globalBan": [
+    "1234567890",
+    "0987654321"
+  ],
   "greetings": [
     "Chào mừng bạn đã trở lại!",
     "Chúc bạn một ngày tốt lành và tràn đầy năng lượng!",
     "Hệ thống bot đã sẵn sàng. Lắp lệnh và chiến thôi!",
     "Chào sếp! Chúc sếp một ngày làm việc hiệu quả!",
     "Hôm nay bạn thế nào? Bot đã sẵn sàng nhận tin nhắn!",
-    "Chúc bạn một ngày mới ngập tràn niềm vui và may mắn!"
+    "Chúc bạn một ngày mới ngập tràn niềm vui và may mắn!",
+    "Nếu gặp trục trặc trong quá trình sử dụng, vui lòng liên hệ admin tại fb.com/wenxxxnew nhé!"
   ]
-  gobl
 }
- THÊM NÀY VÀO MAIM.TXT VÀ SAU ĐÓ LÀM HOÀN THIỆN FILE MAIN.TXT GỬI TÔI 
- THÊM NÀY VÀO MAIM.TXT VÀ SAU ĐÓ LÀM HOÀN THIỆN FILE MAIN.TXT GỬI TÔI  📢 THÔNG TIN DỰ ÁN:                                    ║
-║ Dự án được phát triển & chia sẻ mã nguồn miễn phí.    ║
-║ Bạn chỉ cần thêm lệnh và khởi chạy bot là xong!       ║
-║ Khi muốn thêm lệnh mới, cập nhật bot hoặc cần hỗ trợ: ║
-║ ➡️ Xin vui lòng nhắn tin trực tiếp cho admin nhé!
